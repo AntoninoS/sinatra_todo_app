@@ -1,7 +1,7 @@
-#ToDo App in Sinatra
+# ToDo App in Sinatra
 
 
-###The idea is we shall make a ToDo app and use sinatra and a lot of other libraries. The futures of the app will be  as follows:
+### The idea is we shall make a ToDo app and use sinatra and a lot of other libraries. The futures of the app will be  as follows:
 
 * Each user can have multiple todo list
 
