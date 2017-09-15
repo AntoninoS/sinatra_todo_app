@@ -1,3 +1,7 @@
 source 'https://rubygems.org'
-require 'bundler'
-require 'sinatra'
+gem'bundler'
+gem 'sinatra'
+gem 'thin'
+gem 'sequel'
+gem 'pg'
+
